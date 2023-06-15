@@ -1,6 +1,7 @@
 # Helpful links for web-development
 - [UI](#ui)
 - [API](#api)
+- [Cheatsheets](#cheatsheets)
 
 ## UI<a name='ui'></a>
 1. [Uiverse](https://uiverse.io) - open-source UI elements. 
@@ -15,3 +16,7 @@
 ## API<a name='api'></a>
 1. [CodeMirror](https://github.com/codemirror/codemirror5) - code editor component for the web.
 <img width="740" alt="Screenshot06-15 at 20 05 49@2x" src="https://github.com/FreightDH/helpful-links/assets/81368535/9721b8e6-0903-4ac0-8a08-20091e303b06">
+
+## Cheatsheets<a name='cheatsheetsui'></a>
+1. [CSS Reference](https://cssreference.io/) - a free visual guide to CSS.
+<img width="1908" alt="Screenshot06-15 at 20 23 02@2x" src="https://github.com/FreightDH/helpful-links/assets/81368535/ea8be16f-6b62-4c96-9b52-9589719f64fa">
