@@ -13,6 +13,9 @@
 3. [CSS.gg](https://css.gg) - open-source CSS, SVG and Figma UI Icons.
 <img width="1902" alt="Screenshot06-15 at 20 13 40@2x" src="https://github.com/FreightDH/helpful-links/assets/81368535/01962672-5164-46cb-ab81-fa5e3b25e953">
 
+4. [COOLORS](https://coolors.co/) - color palettes generator.
+<img width="1438" alt="Screenshot07-10 at 12 42 43@2x" src="https://github.com/FreightDH/helpful-links/assets/81368535/c955b3da-6b4f-4165-accf-9fe9cde85014">
+
 ## API<a name='api'></a>
 1. [CodeMirror](https://github.com/codemirror/codemirror5) - code editor component for the web.
 <img width="740" alt="Screenshot06-15 at 20 05 49@2x" src="https://github.com/FreightDH/helpful-links/assets/81368535/9721b8e6-0903-4ac0-8a08-20091e303b06">
